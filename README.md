@@ -5,3 +5,4 @@ This was fun - basically I had to look at the features of English to figure out 
 
 This was written on VS for Mac on Mono- download and load the *.sln then run.  
 
+https://en.wikipedia.org/wiki/SAMPA_chart_for_English
